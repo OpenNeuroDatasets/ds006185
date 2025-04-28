@@ -1,0 +1,15 @@
+{
+  "DelayTime": 0.16599999999999993,
+  "RepetitionTime": 1.761,
+  "SkullStripped": true,
+  "SliceTimingCorrected": true,
+  "Sources": [
+    "bids:raw:sub-24683/ses-1/func/sub-24683_ses-1_task-bao_dir-AP_run-01_echo-1_part-mag_bold.nii.gz",
+    "bids:raw:sub-24683/ses-1/func/sub-24683_ses-1_task-bao_dir-AP_run-01_echo-2_part-mag_bold.nii.gz",
+    "bids:raw:sub-24683/ses-1/func/sub-24683_ses-1_task-bao_dir-AP_run-01_echo-3_part-mag_bold.nii.gz",
+    "bids:raw:sub-24683/ses-1/func/sub-24683_ses-1_task-bao_dir-AP_run-01_echo-4_part-mag_bold.nii.gz",
+    "bids:raw:sub-24683/ses-1/func/sub-24683_ses-1_task-bao_dir-AP_run-01_echo-5_part-mag_bold.nii.gz"
+  ],
+  "StartTime": 0.798,
+  "TaskName": "Bao"
+}
