@@ -12,4 +12,6 @@ figures
 *_fieldmap.*
 *space-*
 *.shape.gii
-
+*mask.nii.gz
+*mask.json
+*mask.label.gii
