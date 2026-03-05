@@ -1,0 +1,7 @@
+{
+  "Sources": [
+    "bids:raw:sub-60197/ses-1/func/sub-60197_ses-1_task-bao_dir-AP_run-01_echo-1_part-mag_sbref.nii.gz",
+    "bids::sub-60197/ses-1/func/sub-60197_ses-1_task-bao_dir-AP_run-01_from-boldref_to-funcpepolar01_mode-image_desc-fmap_xfm.txt",
+    "bids::sub-60197/ses-1/fmap/sub-60197_ses-1_acq-func_run-01_part-mag_fmapid-funcpepolar01_desc-coeff_fieldmap.nii.gz"
+  ]
+}
